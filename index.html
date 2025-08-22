@@ -1,0 +1,75 @@
+<html>
+<head>
+    <link title="timeline-styles" rel="stylesheet" 
+          href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script type="text/javascript" language="javascript" src="timeline.json"></script>
+    
+    <script type="text/javascript">
+        $.getJSON("timeline.json", function (data) {
+            var timeline_json = data;
+            window.timeline = new TL.Timeline('timeline-embed', timeline_json);
+        });
+    </script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #ffffff;
+            border: 1px solid #dddddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        footer h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: #333333;
+        }
+
+        footer ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        footer ul li {
+            margin-bottom: 10px;
+            line-height: 1.6;
+            color: #555555;
+        }
+
+        footer ul li a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        
+        footer ul li a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>      
+    <div id='timeline-embed' style="width: 100%; height: 600px"></div>
+
+    <footer>
+        <h2>References</h2>
+        <ul>
+            <li>Mucci, T. (2024, October 21). <a href="https://www.ibm.com/think/topics/history-of-artificial-intelligence" target="_blank">History of artificial intelligence</a>. IBM.</li>
+            <li>Bauer, P., & Vybarr Cregan-Reid. (2018). <a href="https://www.britannica.com/topic/Gullivers-Travels" target="_blank">Gulliver’s Travels | Summary, Assessment, & Facts</a>. In Encyclopædia Britannica.</li>
+            <li>Fisher, L. M. (2016). Marvin Minsky. Communications of the ACM, 59(4), 22–24. https://doi.org/10.1145/2892716</li>
+            <li>McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (1955). A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, August 31, 1955. AI Magazine, 27(4), 12–12. https://doi.org/10.1609/aimag.v27i4.1904</li>
+            <li>Langley, P. (2011). <a href="https://doi.org/10.1007/s10994-011-5242-y" target="_blank">The changing science of machine learning</a>. Machine Learning, 82(3), 275--279.</li>
+        </ul>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,171 @@
+{
+	"title": {
+		"media": {
+			"url": "https://www.youtube.com/watch?v=rehNT9wIjUg&pp=ygUpSm9uYXRoYW4gU3dpZnQncyDigJxHdWxsaXZlcidzIFRyYXZlbHPigJ0%3D",
+			"caption": "Jonathan Swift's “Gulliver's Travels” "
+		},
+		"text": {
+			"headline": "AI in the past and what it became: a timeline",
+			"text": "<p>In Gulliver's Travels, Jonathan Swift introduces The Engine, a mechanical device that enables scholars to easily generate ideas and texts by turning handles that rotate word-engraved blocks. This satirical invention foreshadows modern AI's ability to produce coherent writing by rearranging words through algorithms. Swift's vision of democratizing creativity resonates today as machines assist in the art of storytelling and idea generation.</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "two.jpeg",
+				"caption": "The Stochastic Neural Analog Reinforcement Calculator (SNARC)."
+			},
+			"start_date": {
+				"year": "1951"
+			},
+			"text": {
+				"headline": "Pioneering the Future of AI with SNARC",
+				"text": "<p>In 1951, Marvin Minsky and Dean Edmunds created the Stochastic Neural Analog Reinforcement Calculator (SNARC), marking a significant milestone in artificial intelligence. This early artificial neural network aimed to model human learning processes by simulating a rat navigating a maze, utilizing rewards and punishments to adjust behavior over time. With 3,000 vacuum tubes and 40 neuron-like units, SNARC laid the groundwork for future advancements in reinforcement learning.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "three.jpeg",
+				"caption": "A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence."
+			},
+			"start_date": {
+				"year": "1955"
+			},
+			"text": {
+				"headline": "Coining the term",
+				"text": "<p>John McCarthy and his collaborators coined the term artificial intelligence in a proposal for the Dartmouth Summer Research Project. This workshop, held in 1956, is widely regarded as the official inception of the field, bringing together leading minds to explore the potential of machines to simulate human intelligence. This seminal event laid the foundation for decades of innovation and research in AI.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "four.jpeg",
+				"caption": "Lisp, which stands for LISt Processing"
+			},
+			"start_date": {
+				"year": "1958"
+			},
+			"text": {
+				"headline": "Lisp Revolutionizes AI Programming",
+				"text": "<p>John McCarthy introduced Lisp, a groundbreaking programming language designed for handling symbolic information and formalizing algorithms. Developed from his insights into mathematical logic, Lisp quickly became the most popular language for AI research, facilitating complex problem-solving and laying the groundwork for future advancements in artificial intelligence. Its influence continues to be felt in the field today.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "fifth.jpeg",
+				"caption": "Shakey, the first AI robot."
+			},
+			"start_date": {
+				"year": "1966"
+			},
+			"text": {
+				"headline": "Shakey the Robot Sets New Milestones in AI",
+				"text": "<p>SRI developed Shakey, the first mobile robot capable of reasoning about its actions through perception, planning, and problem-solving. Marvin Minsky, in a 1970 Life magazine article, predicted that AI would reach human-level intelligence within a few years, a timeline that ultimately proved overly ambitious. Shakey's groundbreaking achievements, however, marked a significant milestone in the evolution of robotics and artificial intelligence.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "six.jpeg",
+				"caption": "Terry Winograd, who created SHRDLU"
+			},
+			"start_date": {
+				"year": "1970"
+			},
+			"text": {
+				"headline": "SHRDLU Pioneers Natural Language Understanding",
+				"text": "<p>Terry Winograd developed SHRDLU, a revolutionary program that demonstrated the ability to understand and respond to natural language commands within a virtual block world. While it showcased the potential for computers to interact meaningfully with users, SHRDLU's success was limited to specific, structured environments, underscoring both the promise and challenges of advancing natural language processing in artificial intelligence.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "seven.jpeg",
+				"caption": "WABOT-2, a humanoid robot developed at Waseda University in Japan"
+			},
+			"start_date": {
+				"year": "1980"
+			},
+			"text": {
+				"headline": "WABOT-2: A Leap Towards Humanoid Robotics",
+				"text": "<p>Beginning in 1980 and completed around 1984, WABOT-2, developed at Waseda University, marked a significant advancement in humanoid robotics. Unlike its predecessor, WABOT-1, this musician robot could read musical scores, converse with humans, and perform music, highlighting the potential for robots to engage in complex, human-like tasks. The project exemplifies the ongoing evolution of AI in artistic expression and human interaction.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "eight.jpeg",
+				"caption": "Science fiction author and mathematician Vernor Vinge"
+			},
+			"start_date": {
+				"year": "1993"
+			},
+			"text": {
+				"headline": "Vernor Vinge's Vision of the Technological Singularity",
+				"text": "<p>Vernor Vinge published 'The Coming Technological Singularity', predicting that superhuman intelligence would emerge within 30 years, radically altering human civilization. His essay popularized the concept of an intelligence explosion, where machines would surpass human intellect, igniting crucial discussions in AI, ethics, and futurism. Vinge's insights continue to shape contemporary debates about the implications and risks of advanced AI technologies.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "nine.jpeg",
+				"caption": "Richard Wallace develops the chatbot A.L.I.C.E"
+			},
+			"start_date": {
+				"year": "1995"
+			},
+			"text": {
+				"headline": "A.L.I.C.E. Transforms Conversational AI",
+				"text": "<p>Richard Wallace developed A.L.I.C.E. (Artificial Linguistic Internet Computer Entity), a chatbot that advanced beyond Joseph Weizenbaum's ELIZA by utilizing the World Wide Web to process extensive natural language data. Employing a pattern-matching technique known as AIML (Artificial Intelligence Markup Language), A.L.I.C.E. enabled more complex and fluid conversations, paving the way for modern virtual assistants and chatbots. Wallace's innovations significantly influenced the evolution of conversational AI technologies.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "ten.jpeg",
+				"caption": "Geoffrey Hinton publishes 'Learning Multiple Layers of Representation'"
+			},
+			"start_date": {
+				"year": "2006"
+			},
+			"text": {
+				"headline": "Geoffrey Hinton Pioneers Deep Learning Breakthroughs",
+				"text": "<p>Geoffrey Hinton published 'Learning Multiple Layers of Representation', highlighting significant advancements in deep learning and the effective training of multilayer neural networks. His innovative approach emphasized generating sensory data through graduated connections, marking a departure from traditional neural networks. This work laid the foundation for deep learning, enabling machines to learn intricate hierarchical representations of data and transforming the landscape of artificial intelligence.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "eleven.jpeg",
+				"caption": "Lee Se-dol, is a South Korean former professional Go player of 9 dan rank."
+			},
+			"start_date": {
+				"year": "2016"
+			},
+			"text": {
+				"headline": "AlphaGo's Historic Victory Redefines AI Potential",
+				"text": "<p>Google DeepMind's AlphaGo achieved a historic milestone by defeating Lee Sedol, one of the world's top Go players, in a match that highlighted the complexities of the game. With more possible moves than atoms in the universe, Go had long posed a significant challenge for AI. AlphaGo's 4–1 victory demonstrated the remarkable capabilities of deep learning techniques in mastering highly complex strategic tasks, marking a new era in artificial intelligence.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "twelve.jpeg",
+				"caption": "OpenAI introduces GPT-3"
+			},
+			"start_date": {
+				"year": "2020"
+			},
+			"text": {
+				"headline": "GPT-3 Revolutionizes Natural Language Processing",
+				"text": "<p>OpenAI unveiled GPT-3, a groundbreaking language model with 175 billion parameters, making it one of the largest and most advanced AI models to date. Its ability to generate human-like text, engage in conversations, write code, and translate languages showcased the potential of AI in natural language processing. GPT-3's massive scale allowed it to perform a diverse range of language tasks with minimal task-specific training, highlighting AI's capacity for coherent and versatile language understanding.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "thirteen.jpeg",
+				"caption": "Google launches Gemini 1.5"
+			},
+			"start_date": {
+				"month": "2",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "Gemini 1.5 Sets New Standards in Language Processing",
+				"text": "<p>Google launched Gemini 1.5 in limited beta, introducing an advanced language model capable of managing context lengths of up to 1 million tokens. This significant enhancement allows the model to process and understand extensive information in a single prompt, greatly improving its ability to maintain context in complex conversations and tasks. Gemini 1.5 marks a major advancement in natural language processing, offering superior memory capabilities and contextual understanding for more effective communication.</p>"
+			}
+		}
+	]
+}
