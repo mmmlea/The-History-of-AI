@@ -6,7 +6,7 @@
 		},
 		"text": {
 			"headline": "AI in the past and what it became: a timeline",
-			"text": "<p>In Gulliver's Travels, Jonathan Swift introduces The Engine, a mechanical device that enables scholars to easily generate ideas and texts by turning handles that rotate word-engraved blocks. This satirical invention foreshadows modern AI's ability to produce coherent writing by rearranging words through algorithms. Swift's vision of democratizing creativity resonates today as machines assist in the art of storytelling and idea generation.</p>"
+			"text": "<p>In Gulliver's Travels, Jonathan Swift introduces The Engine, a mechanical device that enables scholars to easily generate ideas and texts by turning handles that rotate word-engraved blocks. This satirical invention foreshadows modern AI's ability to produce coherent writing by rearranging words through algorithms. Swift's vision of democratizing creativity resonates today as machines assist in the art of storytelling and idea generation (Bauer, P., & Vybarr Cregan-Reid. (2018)).</p>"
 		}
 	},
 	"events": [
@@ -33,7 +33,7 @@
 			},
 			"text": {
 				"headline": "Coining the term",
-				"text": "<p>John McCarthy and his collaborators coined the term artificial intelligence in a proposal for the Dartmouth Summer Research Project. This workshop, held in 1956, is widely regarded as the official inception of the field, bringing together leading minds to explore the potential of machines to simulate human intelligence. This seminal event laid the foundation for decades of innovation and research in AI.</p>"
+				"text": "<p>John McCarthy and his collaborators coined the term artificial intelligence in a proposal for the Dartmouth Summer Research Project (McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (1955)). This workshop, held in 1956, is widely regarded as the official inception of the field, bringing together leading minds to explore the potential of machines to simulate human intelligence. This seminal event laid the foundation for decades of innovation and research in AI.</p>"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			},
 			"text": {
 				"headline": "AlphaGo's Historic Victory Redefines AI Potential",
-				"text": "<p>Google DeepMind's AlphaGo achieved a historic milestone by defeating Lee Sedol, one of the world's top Go players, in a match that highlighted the complexities of the game. With more possible moves than atoms in the universe, Go had long posed a significant challenge for AI. AlphaGo's 4–1 victory demonstrated the remarkable capabilities of deep learning techniques in mastering highly complex strategic tasks, marking a new era in artificial intelligence.</p>"
+				"text": "<p>Google DeepMind's AlphaGo achieved a historic milestone by defeating Lee Sedol, one of the world's top Go players, in a match that highlighted the complexities of the game. With more possible moves than atoms in the universe, Go had long posed a significant challenge for AI. AlphaGo's 4–1 victory demonstrated the remarkable capabilities of deep learning techniques in mastering highly complex strategic tasks, marking a new era in artificial intelligence (Mucci, T. (2024, October 21)).</p>"
 			}
 		},
 		{
@@ -169,3 +169,4 @@
 		}
 	]
 }
+
